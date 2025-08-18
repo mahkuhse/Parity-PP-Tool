@@ -1,0 +1,5 @@
+TO-DO:
+
+- optimize screenshot grabbing tool
+- remove chillers from YOLO training data, might require re-labeling: https://www.youtube.com/watch?v=r0RspiLG260
+- combine the two tools, deploy 
