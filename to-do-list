@@ -1,7 +1,3 @@
 TO-DO:
-
 - optimize screenshot grabbing tool
-  -> try Google Earth Engine API for more clear screenshot (coordinates not correct)
-  -> explore Google Street View Static API for Exterior Images
-- remove chillers from YOLO training data, might require re-labeling
 - combine the two tools, deploy 
